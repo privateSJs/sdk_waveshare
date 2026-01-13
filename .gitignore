@@ -207,3 +207,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 .idea/
+
+scservo_sdk/
+sms_sts/
+STservo_sdk/
